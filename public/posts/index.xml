@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blowfish</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Mark Richards)</managingEditor>
+    <webMaster>youremail@example.com (Mark Richards)</webMaster>
+    <copyright>© 2026 Mark Richards</copyright>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stress Responses</title>
+      <link>http://localhost:1313/posts/stress-responses/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Mark Richards)</author>
+      <guid>http://localhost:1313/posts/stress-responses/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Terms List</title>
+      <link>http://localhost:1313/posts/terms-list/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Mark Richards)</author>
+      <guid>http://localhost:1313/posts/terms-list/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
